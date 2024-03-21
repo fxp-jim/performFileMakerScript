@@ -1,3 +1,7 @@
+.center {
+    text-align: center;
+}
+
 #run-script-button {
     padding: 10px 20px;
     background-color: #4CAF50; /* Green */
